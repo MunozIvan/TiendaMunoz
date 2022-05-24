@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.navfondo{
+  background-color:paleturquoise;
+}
+
+.buscador{
+  width: 40vw;
+}
+
+.banner{
+  width: 20vw; ;
+  height: 45vw;
+  margin-left: 25px;
+}
+
+.titulo {
+  align-content: center;
+  text-align: center;
+  text-justify: center;
+  font-size: xx-large;
+  align-content: center;
+  padding: 3vh;
+  width: 100%;
+  margin-left: 0px;
+  margin-top: 0;
+}
+
+.division{
+  align-content: center;
+  text-align: center;
+  text-justify: center;
+  font-size: x-large;
+  align-content: center;
+  padding: 3vh;
+  width: 100%;
+  margin-left: 0px;
+  margin-top: 0;
+
+}
+
+.cuerpo{
+  display: grid;
+  grid-template-columns: 27vw 50vw 17vw;
+
+}
+.CardsProductos {/*
+  display: grid;
+  grid-template-columns: 15vw 15vw 15vw;
+  grid-template-rows: 25vw 25vw 25vw 25vw 25vw 25vw;
+  column-gap: 1.5vw;*/
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 1.5vw;
+  
+
+}
+
+.canasta{
+  display: flex;
+  flex-direction: column;
+  margin-left: 30vw;
+  margin-right: 30vw;
+}
+
+.producto{
+  display: inline;
+  height: 25vw;
+  width: 15vw;
+}
+
+.filtros{
+  margin-top: 2vw;
+  display: flex;
+  flex-direction: column;
+  row-gap: 2vw;
+}
+
+.descripcion{
+  position:absolute;
+  bottom: 0px;
+}
+
+footer{
+    bottom: 0;
+    margin-top: 3vh;
+}
