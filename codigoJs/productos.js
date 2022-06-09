@@ -1,14 +1,15 @@
 
 
 class producto{
-    constructor(id,modelo, marca, precio, cantidad,foto,tipo){
+    constructor(id,modelo, marca, precio, stock,foto,tipo,ventas){
         this.id= id;
         this.modelo = modelo;
         this.marca = marca.toUpperCase();
-        this.precio = precio.toFixed(2);
-        this.cantidad = cantidad;
+        this.precio = new Intl.NumberFormat().format(precio);
+        this.stock = stock;
         this.foto = foto;
         this.tipo = tipo.toUpperCase();
+        this.ventas = ventas
     }
 }
 
@@ -41,5 +42,16 @@ let arrayCelulares = [celu2,celu3,celu4,celu5,celu6,celu7,celu8,celu9,celu10]
 
 let arrayProductos = arrayCelulares.concat(arrayCamaras)
 
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//                       REEMPLAZADO POR FETCH 
+//////////////////////////////////////////////////////////////////////////////////////////////////
+
+
 export{arrayCamaras,arrayCelulares,arrayProductos}
+
+
+
 

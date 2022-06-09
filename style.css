@@ -60,11 +60,35 @@
 
 }
 
-.canasta{
+.canastaVacia{
   display: flex;
   flex-direction: column;
   margin-left: 30vw;
   margin-right: 30vw;
+}
+
+.canastaConProductos{
+  display: flex;
+  flex-direction: column;
+  gap: 1vw;
+  margin-left: 31vw;
+  margin-right: 31vw;
+  margin-bottom: 1vw;
+}
+
+.productoCarritoBody{
+  align-items: center;
+  align-content: center;
+  font-size:x-large;
+}
+.productoCarritoPrecio{
+  font-size:x-large;
+
+}
+
+#comprar{
+  margin-left: 27vw;
+  margin-right: 27vw;
 }
 
 .producto{
@@ -85,7 +109,17 @@
   bottom: 0px;
 }
 
+.paginas{
+  display: flex;
+  flex-direction: column;
+  row-gap: 0.5vw;
+  justify-content: center;
+  margin-left: 27vw;
+  margin-right: 24vw;
+}
+
 footer{
-    bottom: 0;
-    margin-top: 3vh;
+  position: relative;
+  bottom: 0;
+  margin-top: 3vh;
 }

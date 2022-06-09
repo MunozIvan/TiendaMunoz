@@ -1,0 +1,182 @@
+[
+    {
+        "id": 2,
+        "modelo" : "Samusung Galaxy Z Flip 3",
+        "marca" : "Samsung",
+        "precio" : 154999.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/celu2.png",
+        "tipo" : "celular",
+        "ventas" : 521
+    },
+    {
+        "id": 3,
+        "modelo" : "Apple Iphone 13 mini",
+        "marca" : "Apple",
+        "precio" : 247999.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/celu3.png",
+        "tipo" : "celular",
+        "ventas" : 521
+    },
+    {
+        "id": 4,
+        "modelo" : "Samusung Galaxy S22 Ultra",
+        "marca" : "Samsung",
+        "precio" : 229999.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/celu4.png",
+        "tipo" : "celular",
+        "ventas" : 957
+    },
+    {
+        "id": 5,
+        "modelo" : "Samusung Galaxy A53 5G",
+        "marca" : "Samsung",
+        "precio" : 83999.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/celu5.png",
+        "tipo" : "celular",
+        "ventas" : 82
+    },
+    {
+        "id": 6,
+        "modelo" : "Motorola Edge 20 lite",
+        "marca" : "Motorola",
+        "precio" : 77999.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/celu6.png",
+        "tipo" : "celular",
+        "ventas" : 269
+    },
+    {
+        "id": 7,
+        "modelo" : "Motorola Moto e40",
+        "marca" : "Motorola",
+        "precio" : 33999.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/celu7.png",
+        "tipo" : "celular",
+        "ventas" : 98
+    },
+    {
+        "id": 8,
+        "modelo" : "Samusung Galaxy S21 FE",
+        "marca" : "Samsung",
+        "precio" : 129999.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/celu8.png",
+        "tipo" : "celular",
+        "ventas" : 584
+    },
+    {
+        "id": 9,
+        "modelo" : "Motorola Moto g200",
+        "marca" : "Motorola",
+        "precio" : 99999.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/celu9.png",
+        "tipo" : "celular",
+        "ventas" : 1204
+    },
+    {
+        "id": 10,
+        "modelo" : "Motorola Moto g41",
+        "marca" : "Motorola",
+        "precio" : 49999.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/celu10.png",
+        "tipo" : "celular",
+        "ventas" : 420
+    },
+    {
+        "id": 11,
+        "modelo" : "Canon EOS Rebel Kit T100",
+        "marca" : "Canon",
+        "precio" : 112999.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/camara1.png",
+        "tipo" : "camara",
+        "ventas" : 479
+    },
+    {
+        "id": 12,
+        "modelo" : "Nikon Coolpix B B500 compacta avanzada",
+        "marca" : "Nikon",
+        "precio" : 84527.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/camara2.png",
+        "tipo" : "camara",
+        "ventas" : 532
+    },
+    {
+        "id": 13,
+        "modelo" : "Canon EOS Kit M200 + lente 15-45mm",
+        "marca" : "Canon",
+        "precio" : 127999.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/camara3.png",
+        "tipo" : "camara",
+        "ventas" : 752
+    },
+    {
+        "id": 14,
+        "modelo" : "Sony DSC-H300",
+        "marca" : "Sony",
+        "precio" : 63255.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/camara4.png",
+        "tipo" : "camara",
+        "ventas" : 445
+    },
+    {
+        "id": 15,
+        "modelo" : "Sony DSC-W830 compacta",
+        "marca" : "Sony",
+        "precio" : 23998.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/camara5.png",
+        "tipo" : "camara",
+        "ventas" : 752
+    },
+    {
+        "id": 16,
+        "modelo" : "Nikon Reflex D3500 18-55mm",
+        "marca" : "Nikon",
+        "precio" : 224795.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/camara6.png",
+        "tipo" : "camara",
+        "ventas" : 855
+    },
+    {
+        "id": 17,
+        "modelo" : "Nikon Reflex D5600 18-55mm",
+        "marca" : "Nikon",
+        "precio" : 242779.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/camara7.png",
+        "tipo" : "camara",
+        "ventas" : 105
+    },
+    {
+        "id": 18,
+        "modelo" : "Nikon Z50 Body 20.9mp 4k mirrorless",
+        "marca" : "Nikon",
+        "precio" : 286614.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/camara8.png",
+        "tipo" : "camara",
+        "ventas" : 428
+    },
+    {
+        "id": 19,
+        "modelo" : "Nikon Kit D7500 + lente 18-140mm ED VR DSLR",
+        "marca" : "Nikon",
+        "precio" : 424863.00,
+        "cantidad" : 50,
+        "foto" : "/imagenes/camara9.png",
+        "tipo" : "camara",
+        "ventas" : 987
+    }
+]
